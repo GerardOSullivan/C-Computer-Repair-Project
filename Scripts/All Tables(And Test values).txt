@@ -1,0 +1,109 @@
+-- ComputerRepair.sql
+-- March 2021
+
+-- Drop current tables
+DROP TABLE RepairItems;
+DROP TABLE Parts;
+DROP TABLE Repairs;
+
+-- Create table Parts
+CREATE TABLE Parts(
+PartID NUMERIC(5) NOT NULL,
+PartName VARCHAR2(20) NOT NULL,
+Cost NUMERIC(6,2) DEFAULT 0 NOT NULL,
+Status CHAR(1) DEFAULT 'A' NOT NULL,
+QtyInStock NUMERIC(4) DEFAULT 0 NOT NULL,
+CONSTRAINT pk_partID PRIMARY KEY (PartID)
+);
+
+--Create Table Repairs
+CREATE TABLE Repairs (
+RepairTicketID NUMERIC (5) NOT NULL,
+FirstName VARCHAR2(20) NOT NULL,
+LastName VARCHAR2(20) NOT NULL,
+Address VARCHAR2(50) NOT NULL,
+Eircode VARCHAR2(8),
+Email VARCHAR2(50) NOT NULL,
+Phone VARCHAR2(15) NOT NULL,
+Description VARCHAR2 (70) NOT NULL,
+DateLogged DATE NOT NULL,
+Status CHAR (1) DEFAULT 'L' NOT NULL,
+TotalCost NUMERIC (6,2) DEFAULT 30 NOT NULL,
+DatePaid DATE,
+CONSTRAINT pk_repairTicketID PRIMARY KEY (RepairTicketID)
+);
+
+-- Create table RepairItems
+CREATE TABLE RepairItems (
+RepairTicketID NUMERIC(5) NOT NULL,
+PartID NUMERIC(5) NOT NULL,
+Qty NUMERIC(4) Default 0 NOT NULL,
+Cost NUMERIC(6,2) Default 0 NOT NULL,
+CONSTRAINT pk_partIDandRepairTicketID PRIMARY KEY (PartID,RepairTicketID),
+FOREIGN KEY (PartID) REFERENCES Parts (PartID),
+FOREIGN KEY (RepairTicketID) REFERENCES Repairs (RepairTicketID)
+);
+
+--test values
+INSERT INTO Repairs Values (10001,'Gerard','O Sullivan','Bantry,Co.Cork.','V98 P087','Gerard@emails3.com','02755631','Broken Screen',SYSDATE,'L',30,'');
+INSERT INTO Repairs Values (10002,'Bob','Smith','Miltown, Co.Kerry.','V94 P185','Bob@emails3.com','05455631','Keyboard Not Wokring',SYSDATE,'L',50,'');
+INSERT INTO Repairs Values (10003,'Steve','Jenkins','Tralee, Co.Kerry.','V94 P2I7','Steve@emails3.com','05457891','Hard Drive Failure',SYSDATE,'L',40,'');
+INSERT INTO Repairs Values (10004,'Bryan','Mahony','Bantry,Co.Cork.','V98 P487','bryan@emails3.com','02755341','Missing Ram and needs a new motherboard',SYSDATE,'E',260.13,'');
+INSERT INTO Repairs Values (10005,'Claire','Harrington','Bantry,Co.Cork.','V98 P437','Claire@emails3.com','02255341','Missing Ram and needs a new motherboard',SYSDATE,'E',160.43,'');
+INSERT INTO Repairs Values (10006,'Matt','O Sullivan','Bantry,Co.Cork.','V98 P487','gerardandjohn@email.com','02755241','Broken Screen and mouse',SYSDATE,'P',60.23,'');
+INSERT INTO Repairs Values (10007,'Sean','Kingston','Bantry,Co.Cork.','V98 P409','Sean@emails3.com','02755641','Needs new Hard drive and keyboard',SYSDATE,'F',180.29,'');
+
+--test the charts current year
+INSERT INTO Repairs Values (10008,'Gerard','O Sullivan','Bantry,Co.Cork.','V98 P087','Gerard@emails3.com','02755631','Broken Screen',SYSDATE,'D',40,(TO_DATE('2021/01/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10009,'Bob','Smith','Miltown, Co.Kerry.','V94 P185','Bob@emails3.com','05455631','Keyboard Not Wokring',SYSDATE,'D',30,(TO_DATE('2021/02/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10010,'Steve','Jenkins','Tralee, Co.Kerry.','V94 P2I7','Steve@emails3.com','05457891','Hard Drive Failure',SYSDATE,'D',40,(TO_DATE('2021/03/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10011,'Bryan','Mahony','Bantry,Co.Cork.','V98 P487','bryan@emails3.com','02755341','Missing Ram and needs a new motherboard',SYSDATE,'D',260.13,(TO_DATE('2021/04/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10012,'Claire','Harrington','Bantry,Co.Cork.','V98 P437','Claire@emails3.com','02255341','Missing Ram and needs a new motherboard',SYSDATE,'D',160.43,(TO_DATE('2021/05/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10013,'Matt','O Sullivan','Bantry,Co.Cork.','V98 P487','gerardandjohn@email.com','02755241','Broken Screen and mouse',SYSDATE,'D',60.23,(TO_DATE('2021/06/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10014,'Sean','Kingston','Bantry,Co.Cork.','V98 P409','Sean@emails3.com','02755641','Needs new Hard drive and keyboard',SYSDATE,'D',180.29,(TO_DATE('2021/07/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10015,'Steve','Jenkins','Tralee, Co.Kerry.','V94 P2I7','Steve@emails3.com','05457891','Hard Drive Failure',SYSDATE,'D',40,(TO_DATE('2021/08/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10016,'Bryan','Mahony','Bantry,Co.Cork.','V98 P487','bryan@emails3.com','02755341','Missing Ram and needs a new motherboard',SYSDATE,'D',260.13,(TO_DATE('2021/09/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10017,'Claire','Harrington','Bantry,Co.Cork.','V98 P437','Claire@emails3.com','02255341','Missing Ram and needs a new motherboard',SYSDATE,'D',160.43,(TO_DATE('2021/10/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10018,'Matt','O Sullivan','Bantry,Co.Cork.','V98 P487','gerardandjohn@email.com','02755241','Broken Screen and mouse',SYSDATE,'D',60.23,(TO_DATE('2021/11/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10019,'Sean','Kingston','Bantry,Co.Cork.','V98 P409','Sean@emails3.com','02755641','Needs new Hard drive and keyboard',SYSDATE,'D',180.29,(TO_DATE('2021/12/03','yyyy/mm/dd')));
+
+--test the charts following year
+INSERT INTO Repairs Values (10020,'Gerard','O Sullivan','Bantry,Co.Cork.','V98 P087','Gerard@emails3.com','02755631','Broken Screen',SYSDATE,'D',100,(TO_DATE('2022/01/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10021,'Bob','Smith','Miltown, Co.Kerry.','V94 P185','Bob@emails3.com','05455631','Keyboard Not Wokring',SYSDATE,'D',10,(TO_DATE('2022/02/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10022,'Steve','Jenkins','Tralee, Co.Kerry.','V94 P2I7','Steve@emails3.com','05457891','Hard Drive Failure',SYSDATE,'D',60,(TO_DATE('2022/03/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10023,'Bryan','Mahony','Bantry,Co.Cork.','V98 P487','bryan@emails3.com','02755341','Missing Ram and needs a new motherboard',SYSDATE,'D',160.13,(TO_DATE('2022/04/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10024,'Claire','Harrington','Bantry,Co.Cork.','V98 P437','Claire@emails3.com','02255341','Missing Ram and needs a new motherboard',SYSDATE,'D',160.43,(TO_DATE('2022/05/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10025,'Matt','O Sullivan','Bantry,Co.Cork.','V98 P487','gerardandjohn@email.com','02755241','Broken Screen and mouse',SYSDATE,'D',300.23,(TO_DATE('2022/06/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10026,'Sean','Kingston','Bantry,Co.Cork.','V98 P409','Sean@emails3.com','02755641','Needs new Hard drive and keyboard',SYSDATE,'D',200.29,(TO_DATE('2022/07/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10027,'Steve','Jenkins','Tralee, Co.Kerry.','V94 P2I7','Steve@emails3.com','05457891','Hard Drive Failure',SYSDATE,'D',70,(TO_DATE('2022/08/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10028,'Bryan','Mahony','Bantry,Co.Cork.','V98 P487','bryan@emails3.com','02755341','Missing Ram and needs a new motherboard',SYSDATE,'D',260.13,(TO_DATE('2022/09/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10029,'Claire','Harrington','Bantry,Co.Cork.','V98 P437','Claire@emails3.com','02255341','Missing Ram and needs a new motherboard',SYSDATE,'D',120.43,(TO_DATE('2022/10/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10030,'Matt','O Sullivan','Bantry,Co.Cork.','V98 P487','gerardandjohn@email.com','02755241','Broken Screen and mouse',SYSDATE,'D',200.23,(TO_DATE('2022/11/03','yyyy/mm/dd')));
+INSERT INTO Repairs Values (10031,'Sean','Kingston','Bantry,Co.Cork.','V98 P409','Sean@emails3.com','02755641','Needs new Hard drive and keyboard',SYSDATE,'D',120.29,(TO_DATE('2022/12/03','yyyy/mm/dd')));
+
+--test parts
+INSERT INTO Parts Values (10001,'Msi X470 Motherboard',299.30,'A',100);
+INSERT INTO Parts Values (10002,'Seagate 1tb HDD',50.36,'A',60);
+INSERT INTO Parts Values (10003,'Crucial 8GB DDR4 Ram',45.00,'A',4);
+INSERT INTO Parts Values (10004,'Zowie 144hz Monitor',227.00,'A',1);
+INSERT INTO Parts Values (10005,'Razer Keyboard',46.00,'A',0);
+INSERT INTO Parts Values (10006,'Steel Series Mouse',30.00,'U',4);
+INSERT INTO Parts Values (10007,'CPU Intel i7 7770k',45.00,'A',4);
+
+--test repair items chart
+INSERT INTO RepairItems Values(10008,10001,4,50);
+INSERT INTO RepairItems Values(10009,10001,2,100);
+INSERT INTO RepairItems Values(10010,10001,1,30.87);
+INSERT INTO RepairItems Values(10010,10002,1,30.87);
+INSERT INTO RepairItems Values(10011,10001,3,50);
+INSERT INTO RepairItems Values(10012,10001,1,10);
+INSERT INTO RepairItems Values(10013,10001,2,20);
+INSERT INTO RepairItems Values(10014,10001,1,56);
+INSERT INTO RepairItems Values(10015,10002,2,70);
+INSERT INTO RepairItems Values(10015,10001,4,40);
+INSERT INTO RepairItems Values(10016,10001,1,120);
+INSERT INTO RepairItems Values(10017,10001,3,30);
+INSERT INTO RepairItems Values(10018,10001,3,20);
+INSERT INTO RepairItems Values(10019,10001,4,10);
+
+COMMIT;

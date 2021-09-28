@@ -1,0 +1,48 @@
+-- ComputerRepair.sql
+-- March 2021
+
+-- Drop current tables
+DROP TABLE RepairItems;
+DROP TABLE Parts;
+DROP TABLE Repairs;
+
+-- Create table Parts
+CREATE TABLE Parts(
+PartID NUMERIC(5) NOT NULL,
+PartName VARCHAR2(20) NOT NULL,
+Cost NUMERIC(6,2) DEFAULT 0 NOT NULL,
+Status CHAR(1) DEFAULT 'A' NOT NULL,
+QtyInStock NUMERIC(4) DEFAULT 0 NOT NULL,
+CONSTRAINT pk_partID PRIMARY KEY (PartID)
+);
+
+--Create Table Repairs
+CREATE TABLE Repairs (
+RepairTicketID NUMERIC (5) NOT NULL,
+FirstName VARCHAR2(20) NOT NULL,
+LastName VARCHAR2(20) NOT NULL,
+Address VARCHAR2(50) NOT NULL,
+Eircode VARCHAR2(8),
+Email VARCHAR2(50) NOT NULL,
+Phone VARCHAR2(15) NOT NULL,
+Description VARCHAR2 (70) NOT NULL,
+DateLogged DATE NOT NULL,
+Status CHAR (1) DEFAULT 'L' NOT NULL,
+TotalCost NUMERIC (6,2) DEFAULT 30 NOT NULL,
+DatePaid DATE,
+CONSTRAINT pk_repairTicketID PRIMARY KEY (RepairTicketID)
+);
+
+-- Create table RepairItems
+CREATE TABLE RepairItems (
+RepairTicketID NUMERIC(5) NOT NULL,
+PartID NUMERIC(5) NOT NULL,
+Qty NUMERIC(4) Default 0 NOT NULL,
+Cost NUMERIC(6,2) Default 0 NOT NULL,
+CONSTRAINT pk_partIDandRepairTicketID PRIMARY KEY (PartID,RepairTicketID),
+FOREIGN KEY (PartID) REFERENCES Parts (PartID),
+FOREIGN KEY (RepairTicketID) REFERENCES Repairs (RepairTicketID)
+);
+
+
+COMMIT;

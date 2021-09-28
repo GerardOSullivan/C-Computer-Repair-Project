@@ -1,0 +1,138 @@
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+C:\Users\t00196432\Desktop\RE_Project_Gerard_O_Sullivan\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+C:\Users\Gerard\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyRevenue.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyStock.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmDispatchRepair.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmFinaliseRepair.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+C:\Users\t00196432\Desktop\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyRevenue.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyStock.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmDispatchRepair.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmFinaliseRepair.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+E:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyRevenue.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyStock.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmDispatchRepair.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmFinaliseRepair.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+I:\Requirments enginering\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyRevenue.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmDispatchRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmFinaliseRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CopyComplete
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS01_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyStockSales.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe.config
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\ComputerRepairSYS.pdb
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAddPart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyRevenue.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmAnalyseYearlyStockSales.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmDispatchRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmFinaliseRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmCommenceRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmEstimateRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmListPart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmLogRepair.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmMainMenu.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmRemovePart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.frmUpdatePart.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.Properties.Resources.resources
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.csproj.CopyComplete
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.exe
+C:\Users\Gerard\Desktop\College\Year2\semester 2\Software Engineering project\SD_RE_ASS02_OSullivan_Gerard\ComputerRepairSYS\ComputerRepairSYS\obj\Debug\ComputerRepairSYS.pdb
